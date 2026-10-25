@@ -1,0 +1,12 @@
+{
+  "name": "genpark-agentic-pricing-discount-waterfall-auditor-skill",
+  "version": "1.0.0",
+  "description": "B2B enterprise CPQ revenue auditor decomposing gross-to-net waterfall discounts and margin leakages",
+  "author": "GenPark AI Engineering",
+  "license": "MIT",
+  "keywords": ["discount-waterfall", "cpq-pricing", "revenue-assurance", "margin-leakage", "deal-desk", "agent-skills"],
+  "mcp": {
+    "supported": true,
+    "entrypoint": "mcp_server.py"
+  }
+}
